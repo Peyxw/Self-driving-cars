@@ -7,5 +7,5 @@ Python
 Download the necessary modules and run the main.py file.
 # images
 ![img](img/gta-self-driving.gif)
-# Owner:
-Peyxw
+# Producer
+https://pythonprogramming.net/
